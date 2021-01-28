@@ -17,6 +17,6 @@
   "author": "Damian Moore",
   "license": "GPL",
   "devDependencies": {
-    "electron": "^7.1.1"
+    "electron": "^9.4.0"
   }
 }
